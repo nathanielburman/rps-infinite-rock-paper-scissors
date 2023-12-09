@@ -9,7 +9,7 @@ Infinite rock paper scicorrs based on physicas are reality and a nft game.
 1 Paper
 2 Scissors
 
-Normal Game (Normal Physics)
+## Normal Game (Normal Physics)
 
 0>1>2
 
@@ -20,7 +20,7 @@ Scissors Beats Paper
 Paper Beats Rock
 
 
-Flipped Game (Opposite but Completely Equal)
+## Flipped Game (Opposite but Completely Equal)
 
 0<1<2
 
