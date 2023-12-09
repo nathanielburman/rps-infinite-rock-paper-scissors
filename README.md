@@ -35,7 +35,7 @@ Rock Beats Paper
 
 0>1>2
 
-0*>1*>2*
+2*>0*>1*
 
 Hand stays the same
 
@@ -44,7 +44,9 @@ Meaning changes to right one
 
 ## Normal Game Left
 
-0>1>2
+2>0>1
+
+0*>1*>2*
 
 Hand changes to right one
 
