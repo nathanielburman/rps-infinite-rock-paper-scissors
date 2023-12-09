@@ -29,3 +29,12 @@ Scissors Beats Rock
 Paper Beats Scissors
 
 Rock Beats Paper
+
+
+## Normal Game Right
+
+0>1>2
+
+Hand stays the same
+
+Meaning changes to right one
