@@ -55,4 +55,8 @@ Meaning stays the same
 
 -------------
 
-Pick three of anything you think can kill each other. Pick three over and over again. Demons will play and figure it out for you. Demon Angel Human. Homo Hetro Robot. Trans Gay Homo. All Death Faggot.
+Pick three of anything you think can kill each other. Pick three over and over again. Demons will play and figure it out for you. Demon Angel Human. Homo Hetro Robot. Trans Gay Homo. 
+
+All Death Faggot.
+
+Its your call on this one but I think: Faggots kill ALL. All kills Death. and then Death kills Faggot.
